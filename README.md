@@ -53,3 +53,5 @@ Also included: `README.md`, `animora.ico` (program icon).
 
 <img width="2560" height="1389" alt="{F4F20ECD-6F6F-4139-B3C7-0E3D7E221A1C}" src="https://github.com/user-attachments/assets/60c7e0c6-9eaa-4e47-bc43-ad4eea44ae70" />
 
+<img width="820" height="461" alt="gh gif" src="https://github.com/user-attachments/assets/90b0d7a0-ae52-4e77-a9ea-89917b164110" />
+
