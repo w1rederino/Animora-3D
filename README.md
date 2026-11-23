@@ -2,6 +2,7 @@
 
 A desktop 3D animation app in the spirit of Maya, written in Rust with
 [egui/eframe](https://github.com/emilk/egui). English and German UI.
+Made with [Craft Anything](https://getartcraft.com/apps/craft-anything) and Claude Code.
 
 ## Features
 
