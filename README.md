@@ -46,3 +46,10 @@ Needed to build:
 | `rust-toolchain.toml` | which Rust version to use                            |
 
 Also included: `README.md`, `animora.ico` (program icon).
+
+## Screenshots
+
+<img width="2560" height="1389" alt="{A8E04F12-D866-4099-B5CD-5BA8F4F43005}" src="https://github.com/user-attachments/assets/20b145fb-4482-4aba-a1aa-196c37932271" />
+
+<img width="2560" height="1389" alt="{F4F20ECD-6F6F-4139-B3C7-0E3D7E221A1C}" src="https://github.com/user-attachments/assets/60c7e0c6-9eaa-4e47-bc43-ad4eea44ae70" />
+
